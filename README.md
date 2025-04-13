@@ -1,1 +1,3 @@
 # MyStudySpace
+MyStudySpace is a productivity-driven collaboration platform designed to enhance how students study and work together. Users can create personal accounts, form or join small study groups, and engage in focused "group activities" called events. These events can include study sessions, upcoming exams, assignments, or project work.
+The platform features an integrated chat system for seamless communication, a file-sharing dashboard for easy access to shared resources, and built-in tools like flashcards and a Pomodoro timer to boost learning efficiency. MyStudySpace aims to make academic collaboration more organized, interactive, and productive.
