@@ -1,0 +1,12 @@
+.text-box {
+    -fx-background-color: #F5F7FA;
+    -fx-border-color:  #4A90E2;
+    -fx-border-width: 0px 0px 3px 0px;
+    -fx-border-style: solid;
+}
+
+#log-in-btn{
+    -fx-background-color: #4A90E2;
+    -fx-letter-spacing: 5px;
+
+}
